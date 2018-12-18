@@ -35,7 +35,7 @@ $ react-native run-android
 
 Or open `android folder` file with android studio and run:
 
-# If any issue or error appeared in simulator or emulator 
+# If any issue or error occur in simulator or emulator 
 
 run below command in your project root directory.
 
