@@ -12,6 +12,10 @@ Mesaic Test : Create Student Database Application
 * [Redux](https://github.com/reactjs/redux)
 * [React native router flux](https://github.com/aksonov/react-native-router-flux)
 * [React native SVG](https://github.com/react-native-community/react-native-svg)
+* [ESLint](https://eslint.org/)
+* [Jest](https://jestjs.io/) - Due to some latest react-native version unable to run test.
+* [Image-Picker](https://github.com/react-native-community/react-native-image-picker)
+
 
 
 ## Start
