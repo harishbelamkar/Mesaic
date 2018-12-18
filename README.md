@@ -22,6 +22,7 @@ Mesaic Test : Create Student Database Application
 ##### iOS
 
 Run command to open iOS simulator and run app:
+
 ```
 $ react-native run-ios
 ```
@@ -29,14 +30,16 @@ $ react-native run-ios
 ##### Android (6.0+)
 Run command to open Android emulator and run app:
 
+```
 $ react-native run-android
-
+```
 # If any issue or error occur in simulator or emulator 
 
 run below command in your project root directory.
 
+```
 $ watchman watch-del-all && rm -rf $TMPDIR/react-* && rm -rf node_modules/ && npm cache verify && npm install && npm start -- --reset-cache
-
+```
 
 
 
