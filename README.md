@@ -25,15 +25,11 @@ Run command to open iOS simulator and run app:
 ```
 $ react-native run-ios
 ```
-Or open `ios/RNBoilerplate.xcodeproj` file with XCode and run:
 
-
-##### Android (5.0+)
+##### Android (6.0+)
 Run command to open Android emulator and run app:
 
 $ react-native run-android
-
-Or open `android folder` file with android studio and run:
 
 # If any issue or error occur in simulator or emulator 
 
