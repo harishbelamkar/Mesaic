@@ -24,7 +24,14 @@ Mesaic Test : Create Student Database Application
 
 * Install node, watchman, and react-native-cli by following this [guide](https://facebook.github.io/react-native/docs/getting-started.html)
 
+After downloading source code in project root directory install below command:
+
+```
+$ npm install
+```
+
 ## Develop
+
 ##### iOS
 
 Run command to open iOS simulator and run app:
